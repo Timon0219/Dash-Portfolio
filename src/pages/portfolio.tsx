@@ -29,7 +29,6 @@ const Landing: NextPage = () => {
           <Contact />
         </main>
       </div>
-      {/* {attention && <SecModal handleClose={() => setAttention(false)} />} */}
       <Cursor />
     </div>
   );

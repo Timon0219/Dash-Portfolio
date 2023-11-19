@@ -29,10 +29,9 @@ class MyDocument extends Document {
             property="og:title"
             content="Dusan Portfolio"
           />
-          <meta property="og:image" content="/HomePreview_old.png" />
+          <meta property="og:image" content="/Home.png" />
 
           <meta name="theme-color" content="#111119" />
-          <link rel="apple-touch-icon" href="/logo192.png" />
 
           {/* Fonts */}
           <link rel="preconnect" href="https://fonts.googleapis.com" />
